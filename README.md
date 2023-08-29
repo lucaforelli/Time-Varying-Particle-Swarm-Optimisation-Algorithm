@@ -41,4 +41,7 @@ Hu, Z., Zou, D., Kong, Z. and Shen, X., 2018, June. A particle swarm optimizatio
 with time varying parameters. In 2018 Chinese Control And Decision Conference (CCDC) (pp. 
 4555-4561). IEEE.
 
+Innocente, M.S. and Sienz, J., 2010. Coefficients' Settings in Particle Swarm Optimization: 
+Insight and Guidelines. Mecánica Computacional, 29(94), pp.9253-926.
+
 
