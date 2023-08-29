@@ -24,7 +24,7 @@ Hu et al. titled 'A Particle Swarm Optimization Algorithm with Time Varying Para
 Implementing Welch’s t-test, the p-value results in 0.00671687145671919000, which is less than 
 α (0.05), meaning that there is enough evidence to reject the null hypothesis and to accept the 
 alternate hypothesis. 
-The baseline algorithm has a higher chance of producing values that are suboptimal, 
+The baseline algorithm has a higher chance of producing values that are suboptimal, 
 whereas the novel algorithm on average produces values that has less major 
 fluctuations. By adjusting the velocity dynamically, it allows the algorithm to adapt to changing 
 characteristics of the search space and adjust the parameters of the algorithm to better suit the 
